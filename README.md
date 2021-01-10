@@ -1,0 +1,1 @@
+# Deploying-Microsoft-Azure-Synapse-Analytics-and-Azure-SQL-Database
